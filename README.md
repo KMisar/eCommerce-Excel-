@@ -6,7 +6,7 @@ This project presents a detailed analysis of eCommerce data for the year 2025 us
 ---
 
 ## 🖼 Dashboard Screenshot  
-<img width="1521" height="882" alt="e-Commerce" src="https://github.com/user-attachments/assets/b4528be3-183f-4584-ae4c-07589220a842" />
+<img width="919" height="598" alt="e-Commerce" src="https://github.com/user-attachments/assets/95025652-2df6-4ff4-bc99-c35fcc2dc9ed" />
 
 
 ---
